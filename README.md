@@ -18,3 +18,5 @@ git config --global user.email will.kidefw@gmail.com
 git config --global core.editor subl.exe
 git config --list
 ```
+
+Esta linea fue creada en la rama master
